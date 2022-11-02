@@ -18,11 +18,10 @@ header {
 .result {
   height: 70px;
   width: 70px;
-  background-color: azure;
-  border: 5px solid aqua;
-  border-radius: 50%;
+  background-color: white;
+  border: 5px solid black;
   text-align: center;
-  color: red;
+  color: black;
   line-height: 65px;
   font-weight: 700;
   font-size: 25px;
